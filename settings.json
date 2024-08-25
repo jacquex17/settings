@@ -43,13 +43,13 @@
     "explorer.compactFolders": false,
     "files.insertFinalNewline": true,
     "files.autoSave": "afterDelay",
-    "tabnine.experimentalAutoImports": true,
-
     "explorer.autoReveal": false,
     "workbench.tree.indent": 12,
     "editor.overviewRulerBorder": false,
     "editor.padding.bottom": 14,
     "editor.padding.top": 14,
     "editor.smoothScrolling": true,
+    "peacock.affectActivityBar": false,
+    "peacock.affectTitleBar": true
 
     }
