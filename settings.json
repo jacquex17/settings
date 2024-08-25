@@ -17,6 +17,13 @@
         "list.focusBackground": "#231739",
         "list.hoverBackground": "#231739",
         "terminalCursor.foreground": "#C45DFF",
+        "editorGroupHeader.tabsBackground": "#140E1A",
+        "editorGroupHeader.border": "#140E1A",
+        "tab.activeBackground": "#231739",
+        "tab.inactiveBackground": "#140E1A",
+        "activityBar.background": "#140E1A",
+        "activityBar.border": "#231739",
+        "sideBar.border": "#231739",
     },
     "editor.minimap.enabled": false,
     "editor.guides.indentation": false,
@@ -36,10 +43,13 @@
     "explorer.compactFolders": false,
     "files.insertFinalNewline": true,
     "files.autoSave": "afterDelay",
+    "tabnine.experimentalAutoImports": true,
+
     "explorer.autoReveal": false,
     "workbench.tree.indent": 12,
     "editor.overviewRulerBorder": false,
     "editor.padding.bottom": 14,
     "editor.padding.top": 14,
     "editor.smoothScrolling": true,
+
     }
