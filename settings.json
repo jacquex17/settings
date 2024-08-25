@@ -1,14 +1,15 @@
 {
     "window.zoomLevel": 1,
-    "workbench.colorTheme": "Aura Dracula Spirit",
+    "workbench.colorTheme": "One Candy",
     "workbench.iconTheme": "material-icon-theme",
     "material-icon-theme.hidesExplorerArrows": true,
     "workbench.tree.renderIndentGuides": "none",
-    "workbench.sideBar.location": "left",
+    "workbench.sideBar.location": "right",
     "workbench.layoutControl.enabled": false,
     "workbench.startupEditor": "none",
     "workbench.tips.enabled": false,
     "workbench.colorCustomizations": {
+        "editor.background": "#140E1A",
         "editorSuggestWidget.selectedBackground": "#231739",
         "sideBar.background": "#140E1A",
         "list.activeSelectionBackground": "#231739",
@@ -35,4 +36,10 @@
     "explorer.compactFolders": false,
     "files.insertFinalNewline": true,
     "files.autoSave": "afterDelay",
+    "explorer.autoReveal": false,
+    "workbench.tree.indent": 12,
+    "editor.overviewRulerBorder": false,
+    "editor.padding.bottom": 14,
+    "editor.padding.top": 14,
+    "editor.smoothScrolling": true,
     }
